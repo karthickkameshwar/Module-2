@@ -24,8 +24,8 @@ To write a Python program to check the relation between two numbers — whether 
 ### PROGRAM
 
 ```python
-#Reg.no - 212222060013
-#Name: AKSHAIYAN S
+#Reg.no - 212222060115
+#Name: Karthickkameshwar S
 
 str = int(input())
 x=oct(str)
